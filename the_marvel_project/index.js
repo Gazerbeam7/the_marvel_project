@@ -94,6 +94,3 @@ if(program.spiderman){
   .done()
 }
 
-/*else {
-  program.help()
-}*/
